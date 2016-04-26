@@ -29,7 +29,8 @@
 9、https://github.com/SarielTang/SRTextField
   能够自动自动禁止字符输入，并进行正则验证的TextField。
   
-10、
+10、https://github.com/SarielTang/SRDumyView
+  一个遮罩视图
 
 ##其他
 1、https://github.com/SarielTang/ScreenShot
